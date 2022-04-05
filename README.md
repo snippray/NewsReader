@@ -4,3 +4,7 @@ This script's main objective is to demonstrate how to turn articles and news int
 The script will read new articles published on the Threatpost website in the current day. Therefore, rather than reading the articles, you can listen to the ones that interest you.
 It not only reads the article at the time you specify, but it also produces an MP3 file that you can listen to on your smartphone or play in your smart home! (You can also add other infosec news platforms to this script if they don't have any scrapping policy.)
 Additionally, purchased Text-to-Speech (TTS) APIs can be included for better and more realistic narration.
+
+
+https://user-images.githubusercontent.com/66252727/161681882-dab3a5f7-ffd0-45b4-a215-8c845073f382.mp4
+
