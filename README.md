@@ -6,5 +6,6 @@ It not only reads the article at the time you specify, but it also produces an M
 Additionally, purchased Text-to-Speech (TTS) APIs can be included for better and more realistic narration.
 
 
-https://user-images.githubusercontent.com/66252727/161681882-dab3a5f7-ffd0-45b4-a215-8c845073f382.mp4
+
+https://user-images.githubusercontent.com/66252727/161682402-c1682cfb-07b4-4381-98b1-36e519541a65.mp4
 
